@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LikeMyPost</string>
+    <string name="up_count">#</string>
+    <string name="down_count">#</string>
+    <string name="thumbs_up">up</string>
+    <string name="thumbs_down">down</string>
+</resources>
